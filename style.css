@@ -69,6 +69,8 @@ body {
 
 .number {
 	padding-left: 20px;
+	direction: rtl;
+    text-align: right;
 }
 
 .number li {
